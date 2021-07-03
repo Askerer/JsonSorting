@@ -1,0 +1,24 @@
+{
+  "name": "TEST",
+  "Contact": [
+    {
+      "window": {
+        "priority": 3,
+        "test1": "Y"
+      }
+    },
+    {
+      "window": {
+        "priority": 1,
+        "test1": "Y"
+      }
+    },
+    {
+      "window": {
+        "priority": 2,
+        "test1": "N"
+      }
+    }
+  ]
+
+}
